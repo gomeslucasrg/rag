@@ -2,6 +2,7 @@
 import os
 import numpy as np
 import math
+import math
 from langchain import PromptTemplate
 from langchain.chat_models import ChatOpenAI
 from langchain.embeddings.openai import OpenAIEmbeddings
